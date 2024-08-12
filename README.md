@@ -7,7 +7,6 @@ This project is an Online Learning Platform using full-stack MERN application, c
 2. [Backend Setup](#backend-setup)
 3. [Deployment](#deployment)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Frontend Setup
 
